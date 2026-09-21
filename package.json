@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@bufbuild/protobuf": "^2.15.0",
+    "pako": "^3.0.2"
+  },
+  "devDependencies": {
+    "@bufbuild/buf": "^1.73.0",
+    "@bufbuild/protoc-gen-es": "^2.15.0"
+  }
+}
